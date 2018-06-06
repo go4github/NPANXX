@@ -1,3 +1,5 @@
+-------Service is Deprecated---
+
 This API provides the details NPA-NXX for requested input.
 
 Version 0.1 : It supports get request for NPA-NXX
